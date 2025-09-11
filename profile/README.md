@@ -1,4 +1,4 @@
-<img src="fern-hero.avif" alt="Fern SDK and Documentation Platform" />
+<a href="https://buildwithfern.com/learn/home"><img src="fern-hero.avif" alt="Fern SDK and Documentation Platform" /></a>
 
 <br/>
 
@@ -14,7 +14,7 @@ Fern builds SDKs and documentation for your API. We offer two core products desi
 
 Both products work with OpenAPI, AsyncAPI, OpenRPC, gRPC, or our simpler Fern Definition format, and can be deployed in the cloud or self-hosted for enterprise security and compliance requirements.
 
-<img src="fern-flow.avif" alt="Fern SDK and Documentation generation." />
+<a href="https://buildwithfern.com/#sdk"><img src="fern-flow.avif" alt="Fern SDK and Documentation generation." /></a>
 
 ## Why Choose Fern?
 
@@ -30,4 +30,4 @@ Fern integrates seamlessly with your existing workflow and provides [CLI tools](
 
 [Join the many companies](https://buildwithfern.com/showcase) that have chosen Fern as their preferred solution for SDK generation and API documentation.
 
-<img src="fern-logo-bank.avif" alt="Fern customer logos of Square, Webflow, Pinecone, Cohere, Intercom, ElevenLabs, Samsara, Alchemy, AssemblyAI, Merge,, Auth0, Launchdarkly, and more" />
+<a href="href="https://buildwithfern.com/showcase"><img src="fern-logo-bank.avif" alt="Fern customer logos of Square, Webflow, Pinecone, Cohere, Intercom, ElevenLabs, Samsara, Alchemy, AssemblyAI, Merge,, Auth0, Launchdarkly, and more" /></a>
