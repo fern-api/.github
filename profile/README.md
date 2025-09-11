@@ -1,7 +1,5 @@
 <a href="https://buildwithfern.com/learn/home"><img src="fern-hero.avif" alt="Fern SDK and Documentation Platform" /></a>
 
-<br/>
-
 Fern helps you elevate your developer experience with two powerful products: 
 
 * **SDKs** - Automatically generates production-ready SDKs that respect the idioms of each language. We support TypeScript, Python, Go, Java, Ruby, C#, PHP, and Swift, with Rust coming soon.
