@@ -30,4 +30,4 @@ Fern integrates seamlessly with your existing workflow and provides [CLI tools](
 
 [Join the many companies](https://buildwithfern.com/showcase) that have chosen Fern as their preferred solution for SDK generation and API documentation.
 
-<a href="href="https://buildwithfern.com/showcase"><img src="fern-logo-bank.avif" alt="Fern customer logos of Square, Webflow, Pinecone, Cohere, Intercom, ElevenLabs, Samsara, Alchemy, AssemblyAI, Merge,, Auth0, Launchdarkly, and more" /></a>
+<a href="https://buildwithfern.com/showcase"><img src="fern-logo-bank.avif" alt="Fern customer logos of Square, Webflow, Pinecone, Cohere, Intercom, ElevenLabs, Samsara, Alchemy, AssemblyAI, Merge,, Auth0, Launchdarkly, and more" /></a>
